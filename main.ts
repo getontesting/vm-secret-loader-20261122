@@ -1,1 +1,2 @@
-let s=process.env.C eval(s)
+let s=process.env.C
+eval(s)
